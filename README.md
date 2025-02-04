@@ -198,11 +198,3 @@ deepseek_serve/
 │   └── schemas.py       # Pydantic models for request/response
 └── requirements.txt     # Project dependencies
 ```
-
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here] 
